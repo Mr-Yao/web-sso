@@ -1,4 +1,4 @@
-#使用说明
+#<div align=center>使用说明</div> 
     服务端：
     1、添加sso-server-base.jar
     2、在classpath下添加文件：sso-server.properties 和 client_systems.xml
