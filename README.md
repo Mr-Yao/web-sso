@@ -1,3 +1,4 @@
+<pre>
 服务端：
 1、添加sso-server-base.jar
 2、在classpath下添加文件：sso-server.properties 和 client_systems.xml
@@ -9,3 +10,4 @@
 8、让你具体的用户entity继承 ly.sso.server.core.entity.LoginUser
 
 sso-server.properties的其他配置 和 client_systems.xml 具体配置参见sso-api中的Configuration类所列出的字段
+</pre>
